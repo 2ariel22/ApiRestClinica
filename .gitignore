@@ -1,4 +1,4 @@
-.mvn
-.vscode
-mvnw.cmd
-mvnw
+/.mvn
+/.vscode
+/mvnw.cmd
+/mvnw
